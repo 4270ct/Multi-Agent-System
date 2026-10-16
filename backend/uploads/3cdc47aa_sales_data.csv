@@ -1,0 +1,6 @@
+transaction_id,date,region,product_name,units_sold,unit_price,total_revenue
+TXN-1001,2026-01-15,North,Enterprise License,5,1200.00,6000.00
+TXN-1002,2026-01-16,East,Cloud Storage Add-on,50,45.00,2250.00
+TXN-1003,2026-01-18,West,Support Tier 2,12,300.00,3600.00
+TXN-1004,2026-01-20,South,Professional Services,8,1500.00,12000.00
+TXN-1005,2026-01-22,North,Enterprise License,3,1200.00,3600.00
